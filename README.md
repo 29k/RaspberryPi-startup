@@ -2,7 +2,7 @@
 
 ##Objective
   This is a guide of how to set up raspberry pi and install the software needed for dev and productive.
-  
+
 ##Topic
 1. Initialize the RaspPi with Debian system and some baisc config;
 2. Coding envirment setting, including python, javescript;
@@ -21,3 +21,6 @@
 
 ##Credits
 1. Thanks for all the guys who share their knowledge and time in net.
+
+##Notes
+1.git status, git add ., git commit - 'messsage', git push
