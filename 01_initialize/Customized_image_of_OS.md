@@ -10,7 +10,7 @@ For quick start, standard, and handy;
 Original img source "2015-05-05-raspbian-wheezy.img"
 
 #Add on software
-1. python & nodejs;
+1. nodejs;
 2. mysql, mongodb, redis;
 3. boot auto-run script;
 4. boot start screen config;
