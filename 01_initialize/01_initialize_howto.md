@@ -6,6 +6,7 @@ install the RaspPi with the OS(linux Debian)
 #Requirement
 1. RaspPi, Mac, SD card(8G+)
 2. OS img(Debian), [download link](https://www.raspberrypi.org/downloads/raspbian/)
+3. Own Customized img with preinstall software required will given, contact me.
 
 #Install OS
 #####super easy, just like ghost or more copy and past
@@ -13,7 +14,7 @@ install the RaspPi with the OS(linux Debian)
 2. For windows or other envirment, please check [link](http://www.tweaking4all.com/hardware/raspberry-pi/install-img-to-sd-card/);
 
 
-#Connect Pi to Mac with USB
+#Connect Pi to Mac with netcable
 
 
 #Issue
