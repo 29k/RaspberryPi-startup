@@ -34,7 +34,8 @@ step of install different software
 1. download zipfile, in console "wget http://download.redis.io/releases/redis-3.0.6.tar.gz", could renew the version;
 2. unzip, in console "tar -xzf redis-3.0.6.tar.gz";
 3. in console "cd redis-3.0.6";
-4. compile, in console "make install";
+4. compile, in console "sudo make install";
+5. for more, [link](http://will-hart.github.io/blitz/server/raspberry-pi-setup.html),[link](https://thomashunter.name/blog/installing-redis-on-debian/)
 
 super easy, just like ghost or more copy and past
 1. use pi filler(for mac) install the OS img into SD card, [headless guide](https://learn.adafruit.com/beaglebone-black-installing-operating-systems/mac-os-x)
