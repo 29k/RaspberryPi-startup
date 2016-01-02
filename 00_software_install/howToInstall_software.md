@@ -7,6 +7,9 @@ step of install different software
 1. Whatever, first "sudo apt-get update sudo apt-get upgrade";
 
 #Content
+##python
+1. in console, "sudo apt-get install python-pip";
+
 ##Node.js
 1. "sudo apt-get update sudo apt-get upgrade";
 2. add apt resource, in console "curl -sL https://deb.nodesource.com/setup | sudo bash -";
@@ -25,6 +28,13 @@ step of install different software
 1. shortcut, download and unzip the file in Pi, run "sudo bash install.sh", [link](https://github.com/svvitale/mongo4pi);
 2. dev more, [link](https://nikolayarhangelov.wordpress.com/2015/01/25/raspberry-pi-running-nodejs-and-mongodb-on-pi/), [link](http://c-mobberley.com/wordpress/2013/10/14/raspberry-pi-mongodb-installation-the-working-guide/);
 3. start: /opt/mongo/bin => ./mongo
+4. for python, "sudo pip install redis"
+
+##redis
+1. download zipfile, in console "wget http://download.redis.io/releases/redis-3.0.6.tar.gz", could renew the version;
+2. unzip, in console "tar -xzf redis-3.0.6.tar.gz";
+3. in console "cd redis-3.0.6";
+4. compile, in console "make install";
 
 super easy, just like ghost or more copy and past
 1. use pi filler(for mac) install the OS img into SD card, [headless guide](https://learn.adafruit.com/beaglebone-black-installing-operating-systems/mac-os-x)
