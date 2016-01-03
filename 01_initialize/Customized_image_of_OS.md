@@ -20,7 +20,7 @@ Original img source "2015-05-05-raspbian-wheezy.img"
 
 
 #step
-1. download the resource;
+1. download the resource, [download link]( http://yunpan.cn/OcukzX94zLREgf ),password:4a19;
 2. use Windows PC, and download win32diskimager, clone the img to 16G sd card;
 3. Done;
 4. start the Pi, you can use "sudo raspi-config" => "expand filesystem";
