@@ -14,6 +14,9 @@ install the RaspPi with the OS(linux Debian)
 2. For windows or other envirment, please check [link](http://www.tweaking4all.com/hardware/raspberry-pi/install-img-to-sd-card/);
 3. Very important,expand useable disk, after install OS "sudo raspi-config", choose expand disk,;
 
+#Backup and restore OS img;
+1. In windows, use win32diskimager;
+
 #Connect Pi to Mac with netcable
 
 
