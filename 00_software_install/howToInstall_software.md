@@ -21,7 +21,8 @@ step of install different software
 ##mysql
 1. in console,"sudo apt-get update sudo apt-get upgrade";
 2. in console, "sudo apt-get install mysql-server python-mysqldb";
-3. OK, and for more [link](http://raspberrywebserver.com/sql-databases/using-mysql-on-a-raspberry-pi.html) and [link](http://www.raspberry-projects.com/pi/software_utilities/mysql), and [link](http://elinux.org/RPi_MySQL), and [link](http://dev.mysql.com/doc/refman/5.5/en/sql-syntax.html);
+3. in console, "sudo apt-get install mysql-client"
+4. OK, and for more [link](http://raspberrywebserver.com/sql-databases/using-mysql-on-a-raspberry-pi.html) and [link](http://www.raspberry-projects.com/pi/software_utilities/mysql), and [link](http://elinux.org/RPi_MySQL), and [link](http://dev.mysql.com/doc/refman/5.5/en/sql-syntax.html);
 
 
 ##mongodb

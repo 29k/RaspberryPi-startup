@@ -14,7 +14,7 @@ Howto Connect Pi with net-cable
 2. Now you login the pi console.
 
 ##Connect via remote Desktop VNC
-1. update the pi, in Pi Console "sudo apt-get update";
+1. update the pi, in Pi Console "sudo apt-get update && sudo apt-get upgrade";
 2. install vncserver, in Pi console "sudo apt-get install tightvncserver";
 3. run vncserver on Pi, in Pi console "vncserver :1", and input the password;
 4. run client on Mac, in desktop Menu line => Go => Connect to server(shortcut: command+K);
