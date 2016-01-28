@@ -3,7 +3,7 @@ import paramiko
 
 
 
-hostname = '192.168.199.189'
+hostname = '192.168.199.173'
 username = 'pi'
 password = 'raspberry'
 

@@ -1,6 +1,6 @@
 import pysftp
 
-hostname = '192.168.199.189'
+hostname = '192.168.199.173'
 username = 'pi'
 password = 'raspberry'
 print hostname, username,password
@@ -9,7 +9,7 @@ targetFolder = '/home/pi/Desktop/'
 createFolder = 'myfolder'
 disFolder = targetFolder + createFolder
 
-sourceFolder = '/Users/yangyikai/Desktop/webproject/PM-sop/SOP/08_production/08_01/08_01_02_coding'
+sourceFolder = '/Users/yangyikai/Desktop/webproject/PM-sop/SOP/08_production/08_01/server_side/coding'
 
 sftp = pysftp.Connection(hostname, username=username, password=password)
 sftp.cwd(targetFolder)
