@@ -74,6 +74,8 @@ headless step by step install and setting guide
 #reference resource
 1. [set up Django, Nginx and Gunicorn in a Virtualenv controled by Supervisor](https://gist.github.com/Atem18/4696071)
 2. [Installing Django on a Raspberry Pi](http://www.hackedexistence.com/project/raspi/django-on-raspberry-pi.html)
-
+3. [config all](http://michal.karzynski.pl/blog/2013/06/09/django-nginx-gunicorn-virtualenv-supervisor/)
+4. [and](https://scriptndebug.wordpress.com/2015/04/19/setup-django-with-supervisor-gunicorn-and-nginx-part-2/)
+5. [and](http://agiliq.com/blog/2014/05/supervisor-with-django-and-gunicorn/)
 
 #Issue

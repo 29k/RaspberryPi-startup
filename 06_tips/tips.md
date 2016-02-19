@@ -9,7 +9,8 @@ useful tips
 #Content
 1. disable screen sleep
   install xscreensaver and in desktop config disable sleep
-  install command, ```
+  install command,
+  ```
   sudo apt-get update
   sudo apt-get install xscreensaver
   ```
